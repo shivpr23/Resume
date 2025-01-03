@@ -24,7 +24,7 @@ This project aims to:
 3. Demonstrate the ability to create responsive and engaging web content.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (Replace `#` with your live project URL)
+🔗 [Live Demo](https://shivpr23.github.io/Resume/) 
 
 ## 🚀 Getting Started
 To run this project locally:
@@ -49,4 +49,4 @@ Fork the repository.
 ## 📧 Contact
 Feel free to reach out:
 📩 Email: shivapratap124@gmail.com
-🔗 LinkedIn: Shiv Pratap
+🔗 LinkedIn: [Shiv Pratap](http://www.linkedin.com/in/shiv-pratap-8ba4a3272)
