@@ -43,7 +43,7 @@ Fork the repository.
 1. Create a feature branch:
    ```bash
    git checkout -b feature/new-feature
-  ```
+
 2. Commit your changes and open a Pull Request.
 
 ## 📧 Contact
