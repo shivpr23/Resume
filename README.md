@@ -31,7 +31,6 @@ To run this project locally:
 1. Clone this repository:  
    ```bash
    git clone https://github.com/shivpr23/resume.git
-```
 2. Open `index.html` in your favorite browser.
 
 ## 💡 How to Use
